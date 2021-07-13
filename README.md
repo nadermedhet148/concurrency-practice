@@ -5,17 +5,20 @@ this repository will contain all java concurrency features, patterns, and topic 
 # Topics covered for now
 ----------------------------------------
 - ThreadSafety :
-	- CompositionSafety
+  - CompositionSafety
   - Immutability
   - ReadWriteLock
   - Synchronization
   - ThreadConfinement
   - VolatileObject
-
-
-
-
-
-  
-
-
+- Collections
+    - ConcurrentHashMapTest
+    - SynchronizedList
+    - ProducerConsumer
+    - CopyOnWriteArrayListTest
+-  BarrierTest
+-  LatchTest
+-  Semaphores
+-  WorkStealing
+-  Examples :
+    - Cache
