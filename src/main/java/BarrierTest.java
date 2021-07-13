@@ -30,7 +30,7 @@ class Barrier
             Thread.sleep(1000);
             System.out.println("MyThread1 waiting on barrier");
             barrier.block();
-            System.out.println("MyThread1 has been released");
+            System.out.println("MyThread1 has been relea sed");
         } catch (InterruptedException ie)
         {
             System.out.println(ie);
