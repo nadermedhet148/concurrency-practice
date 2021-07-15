@@ -6,7 +6,7 @@ import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;
 
 
-class DirSize {
+class DirSize  {
 
 
     public static long sizeOf(final File file) {

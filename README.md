@@ -20,9 +20,11 @@ this repository will contain all java concurrency features, patterns, and topic 
 -  LatchTest
 -  Semaphores
 -  WorkStealing
--  Examples :
-    - Cache
-- SingleThreadExecutor
+
+- ThreadExecutor
     _ FixedThreadPool
     - CachedThreadPool
     - SingleThreadExecutor
+-  Examples :
+    - Cache
+    - MultipleFilesManger
