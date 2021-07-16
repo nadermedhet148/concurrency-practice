@@ -21,6 +21,11 @@ this repository will contain all java concurrency features, patterns, and topic 
 -  Semaphores
 -  WorkStealing
 
+- ThreadCancelation
+    - CancelTaskInExecutor
+    - ExecutorServiceShutdown
+    - killingThreads
+
 - ThreadExecutor
     _ FixedThreadPool
     - CachedThreadPool
